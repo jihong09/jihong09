@@ -1,4 +1,4 @@
-Hello world, I'm jihong09!
+Hello world, I'm Jihong Kim!
 
 
 <p>
