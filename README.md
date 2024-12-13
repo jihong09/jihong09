@@ -1,7 +1,5 @@
-<img align="right" src="https://user-images.githubusercontent.com/61736137/165254138-70830fcb-b25a-42b0-a8a4-b90678bcb2a2.svg " 너비="300"/>
 
-안녕하세요, 저는 드림 코더 엘리입니다 <img src="https://user-images.githubusercontent.com/1569988/159394239-e0c43e47-0215-4e4f-983b-559c1994a9f7.png " 높이="180"></h1>
-
+안녕하세요, 저는 지홍입니다
 <p>
  <그들>
  <h3>
