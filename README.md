@@ -1,27 +1,6 @@
 
 안녕하세요, 저는 지홍입니다
 <p>
- <그들>
- <h3>
- 콘텐츠 제작자
- <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC ">
- 엘리 바이 드림코딩 <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png " 높이="30 px" />
- </a>
- </h3>
- </em>
- <그들>
- <h3>
- 강사 
- <a href="https://academy.dream-coding.com/ ">
- 드림 코딩 아카데미 
- <img src="https://user-images.githubusercontent.com/1569988/159411473-79b779c5-b91f-4ded-9235-1f187e1ebec2.svg " 높이="30 px"/>
- </a>
- </h3>
- </em>
- </em>
-</p>
-
-<br />
 <h2> 내 기술 스택 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -29,9 +8,9 @@
 ![자바스크립트](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![타이프스크립트](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![반응](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![노드](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![자바](https://img.shields.io/badge/-JAVA-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![깃](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![도커](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+
 
 <br/>
 
@@ -51,7 +30,7 @@
  </td>
  <td>
  <a href="http://www.youtube.com/watch?v=Z9dvM7qgN9s " 제목="깃, 깃허브 제대로 배우기 (기본 마스터편, 실무에서 꿀리지 말자)">
- <img align="center" src="https://img.youtube.com/vi/Z9dvM7qgN9s/0.jpg " 너비="300" alt-text="깃 튜토리얼">
+ <img align="center" src="https://img.youtube.com/vi/Z9dvM7qgN9s/0.jpg "너비="300" 대체 텍스트="깃 튜토리얼">
  </a>
  </td>
  </tr>
@@ -68,12 +47,12 @@
  <tr>
  <td>
  <a href="https://academy.dream-coding.com/courses/react " 제목="리액트 개념정리 · 클론코딩">
- <img align="center" src="https://d2lmphbmp3ptuw.cloudfront.net/assets/React_Course_2022_Thumbnail_1_22adc8b602.gif " 너비="300" alt-text="리액트 코스">
+ <img align="center" src="https://d2lmphbmp3ptuw.cloudfront.net/assets/React_Course_2022_Thumbnail_1_22adc8b602.gif "너비="300" alt-text="리액트 코스">
  </a>
  </td>
  <td>
- <a href="https://academy.dream-coding.com/courses/typescript " 제목="타입스크립트와 객체지향 프로그래밍">
- <img align="center" src="https://d2lmphbmp3ptuw.cloudfront.net/assets/Type_Script_Course_Thumbnail_06091d592c.gif " 너비="300" alt-text="타이프스크립트 과정">
+ <a href="https://academy.dream-coding.com/courses/typescript "제목="타입스크립트와 객체지향 프로그래밍">
+ <img 정렬="가운데" src="https://d2lmphbmp3ptuw.cloudfront.net/assets/Type_Script_Course_Thumbnail_06091d592c.gif "너비="300" alt-text="타이프스크립트 과정">
  </a>
  </td>
  <td>
