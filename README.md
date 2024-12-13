@@ -17,5 +17,5 @@
 
 
 
-!(https://img.shields.io/badge/any_text-you_like-blue)
-!(https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![1](https://img.shields.io/badge/any_text-you_like-blue)
+![2](https://img.shields.io/badge/just%20the%20message-8A2BE2)
